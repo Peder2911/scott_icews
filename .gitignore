@@ -1,0 +1,8 @@
+out/*
+icews/*
+coded/*
+dictionaries/*
+
+!*.gitkeep
+!*manifest
+venv/
